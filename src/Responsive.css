@@ -1,0 +1,17 @@
+
+
+
+  @media only screen and (max-height:500px){
+    
+    .login_nav{
+        display: none;
+    }
+
+    .signup_nav {
+        display: none;
+    }
+    #signup_loco_icon{
+        display: none;
+    }
+
+  }
